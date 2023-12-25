@@ -26,7 +26,7 @@ print('---------------------')
 print(len(fruit_tuple))
 print('---------------------')
 
-
+print('-------SETS--------')
 
 # A Set is a collection which is unordered and unindexed. No duplicate members
 
