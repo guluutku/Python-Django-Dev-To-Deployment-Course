@@ -25,8 +25,41 @@ print('---------------------')
 # Get length
 print(len(fruit_tuple))
 print('---------------------')
+print('')
+print('')
 
 print('-------SETS--------')
 
+print('')
+
 # A Set is a collection which is unordered and unindexed. No duplicate members
 
+# Create Set
+fruit_set = {'Apple', 'Orange', 'Mango'}
+print(fruit_set)
+print('---------------------')
+
+# Check if in Set
+print('Apple' in fruit_set)
+print('Apples' in fruit_set)
+print('---------------------')
+
+# Add to set
+fruit_set.add('Grape')
+print(fruit_set)
+print('---------------------')
+
+# Remove from set
+fruit_set.remove('Grape')
+print(fruit_set)
+print('---------------------')
+
+# Clear the set
+fruit_set.clear()
+print(fruit_set)
+print('---------------------')
+
+# Delete Set
+del fruit_set
+print(fruit_set)
+print('---------------------')
