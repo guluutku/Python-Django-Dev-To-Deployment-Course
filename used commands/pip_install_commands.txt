@@ -2,3 +2,6 @@ Use them in venv active
 
 Download DJango:
     pip install django
+
+Autopep8:
+    pip install autopep8 
