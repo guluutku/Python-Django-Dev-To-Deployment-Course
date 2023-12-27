@@ -13,3 +13,6 @@ Start server:
 
 Create apps:
     python manage.py startapp <APP NAME> 
+
+Migrate Database:
+    python manage.py migrate

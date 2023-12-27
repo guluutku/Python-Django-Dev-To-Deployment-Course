@@ -5,3 +5,6 @@ Download DJango:
 
 Autopep8:
     pip install autopep8 
+
+Psycopg2:
+    pip install psycopg2
