@@ -16,3 +16,4 @@ Create apps:
 
 Migrate Database:
     python manage.py migrate
+    python manage.py makemigrations
