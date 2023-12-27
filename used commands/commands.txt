@@ -3,3 +3,6 @@ Create venv:
 
 DJango start project:
     django-admin startproject <project name> .
+
+Start server:
+    python manage.py runserver
