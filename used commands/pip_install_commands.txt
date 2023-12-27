@@ -11,3 +11,6 @@ Psycopg2:
 
 Pillow:
     pip install Pillow 
+
+Pylint Django:
+    pip install pylint-django
