@@ -1,2 +1,5 @@
 Create venv:
     python3 -m venv ./venv
+
+DJango start project:
+    django-admin startproject <project name> .
