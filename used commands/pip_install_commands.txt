@@ -1,0 +1,16 @@
+Use them in venv active
+
+Download DJango:
+    pip install django
+
+Autopep8:
+    pip install autopep8 
+
+Psycopg2:
+    pip install psycopg2
+
+Pillow:
+    pip install Pillow 
+
+Pylint Django:
+    pip install pylint-django

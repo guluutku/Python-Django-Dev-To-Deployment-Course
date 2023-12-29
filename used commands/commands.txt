@@ -1,0 +1,19 @@
+Create venv:
+    python3 -m venv ./venv
+
+Start venv:
+    source ./venv/bin/activate
+    deactive to stop
+
+DJango start project:
+    django-admin startproject <project name> .
+
+Start server:
+    python manage.py runserver
+
+Create apps:
+    python manage.py startapp <APP NAME> 
+
+Migrate Database:
+    python manage.py migrate
+    python manage.py makemigrations
