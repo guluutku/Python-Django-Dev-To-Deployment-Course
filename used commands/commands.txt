@@ -2,8 +2,9 @@ Create venv:
     python3 -m venv ./venv
 
 Start venv:
-    source ./venv/bin/activate
-    deactive to stop
+    MAC:
+        source ./venv/bin/activate
+        deactive to stop
 
 DJango start project:
     django-admin startproject <project name> .
